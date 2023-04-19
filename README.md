@@ -1,3 +1,3 @@
 # RoboBrain
 
-Framework for developing productive and intelligent robot solutions.
+Framework for providing productive and intelligent robot solutions.
